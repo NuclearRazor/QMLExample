@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CustomCircle.qml</file>
+        <file>ComponentCreation.js</file>
+        <file>InspectorField.qml</file>
+        <file>Config.qml</file>
+        <file>DropField.qml</file>
+        <file>PalettesField.qml</file>
+        <file>CustomSquare.qml</file>
+        <file>CustomTriangle.qml</file>
+    </qresource>
+</RCC>
